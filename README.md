@@ -39,3 +39,4 @@ Based on these checks, the system classifies the password as **Weak**, **Medium*
 
 bash
 python password_checker.py
+python app.py
